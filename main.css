@@ -6,16 +6,16 @@
 
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: burlywood;
+    background-color: white;
 }
 
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: rgb(17, 71, 170);
+    background: burlywood;
     padding: 20px;
-    color: rgb(8, 8, 64);
+    color: rgb(160, 117, 62);
 }
 
 .logo {
